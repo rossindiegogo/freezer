@@ -1,3 +1,4 @@
+/* http://ellesite.altervista.org/Tribs/freez.js */
 /**
  * renames incomings commands that still have their default names to 'unknown [date hh:mm:ss]'
  * author: Nick Toby (cheesasaurus@gmail.com)
